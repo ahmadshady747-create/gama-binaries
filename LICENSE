@@ -1,0 +1,36 @@
+Business Source License 1.1 (BSL 1.1)
+
+Copyright (c) 2026 Ahmed Shadi. All rights reserved.
+
+Parameters:
+- Licensor: Ahmed Shadi
+- Change Date: 2029-01-01
+- Change License: Apache License, Version 2.0
+- Additional Use Grant:
+  1. Free Tier:
+     Use of the software in source and binary forms is free for individual developers, 
+     students, educational use, non-commercial open-source projects, and small teams 
+     with fewer than 5 developers.
+  
+  2. Internal Commercial Seat License ($150 USD / developer seat / year):
+     Internal organizational usage, CI/CD pipeline integration, or in-house tooling 
+     within organizations with 5 or more developers requires an internal seat license. 
+     This license grants internal developer use only and does NOT permit offering the 
+     engine as a commercial SaaS, cloud API, or re-sold service.
+
+  3. Commercial SaaS & Cloud OEM License ($10,000 USD / year):
+     Embedding, hosting, or offering locus-engine as a hosted cloud service, commercial 
+     SaaS, cloud API, or white-labeled commercial product requires a dedicated 
+     Commercial SaaS & Cloud OEM License.
+
+- Warranty & Support Disclaimer (As-Is / Self-Service):
+  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, 
+  INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A 
+  PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT 
+  HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+  ALL TIERS OPERATE ON A SELF-SERVICE BASIS. TECHNICAL SUPPORT, CUSTOM INTEGRATIONS, 
+  OR SLA GUARANTEES ARE NOT INCLUDED UNLESS EXPLICITLY NEGOTIATED UNDER A SEPARATE 
+  CUSTOM ENTERPRISE AGREEMENT.
+
+Contact for Licensing & Inquiries: licensing@locus.dev
